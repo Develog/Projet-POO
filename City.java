@@ -4,13 +4,14 @@ public class City {
 	
 	private final String name;
 	private final boolean hasAnAirport;
-	private final ArrayList <City> destination;
+	private ArrayList <City> destination;
+	private final ArrayList <String> destinationS;
 	//private final ArrayList <Place> placeList;
 	
-	public City(String name, boolean hasAnAirport, ArrayList<City> destination) {
+	public City(String name, boolean hasAnAirport, ArrayList<String> destinationS) {
 		this.name = name;
 		this.hasAnAirport = hasAnAirport;
-		this.destination = destination;
+		this.destinationS = destinationS;
 	}
 	
 	public String getName() {
