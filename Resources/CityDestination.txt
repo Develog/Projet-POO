@@ -1,0 +1,16 @@
+Paris Lille Le-Havre Reims
+Marseille Nice Montpellier
+Lyon Marseille Dijon
+Lille Paris Le-Havre
+Le-Havre Paris Lille
+Rennes Nantes Brest
+Strasbourg Dijon Reims
+La-Rochelle Bordeaux Poitiers
+Nantes Poitiers Rennes
+Toulouse Bordeaux Montpellier
+Montpellier Toulouse Marseille
+Nice Marseille
+Brest Rennes
+Dijon Strasbourg Reims
+Poitiers La-Rochelle Nantes
+Reims Dijon Paris
