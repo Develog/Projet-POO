@@ -1,6 +1,7 @@
 Paris Lille Le-Havre Reims
 Marseille Nice Montpellier
 Lyon Marseille Dijon
+Bordeaux La-Rochelle Toulouse
 Lille Paris Le-Havre
 Le-Havre Paris Lille
 Rennes Nantes Brest
