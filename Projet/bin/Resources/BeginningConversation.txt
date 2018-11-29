@@ -1,0 +1,8 @@
+Welcome to gameName created by Marc Léger, Camille Paquet, Michaël Parmentier, Mathieu Pereira.
+You must travel across the France to discover a treasure. You can go in 17 cities like Paris, Bordeaux or Poitiers.
+To know where you can find the treasure you need to find 5 parchments in differents places which will give you the path to follow.
+So I don't even know your name. Could you give me your name dear stranger.
+Fine ! Nice to meet you <NAME> ! I give you a bag to carry your items and parchments. But you need some money to travel because the train or the airplane isn't free. 
+So I give you the incredible sum of 100 Donuts. It's forbidden to eat them ! 
+And today I'm sweet so I give you one ticket to take the train or the airplane.
+Now leave me alone ! We are arrived to the City Hall of <CITYNAME>. 
